@@ -5,6 +5,6 @@ Desciption : Chat Room consists One Server with Multiple Clients. Clients can co
 
 
 Open CMD's,  one for server and as many for clients:
--------------------------------------------------------------------
---> Server commnad :   python server.py
+---------------------------------------------------
+--> Server command :   python server.py
 --> Client's commmand :   python client.py
